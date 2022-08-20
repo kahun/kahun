@@ -1,5 +1,7 @@
 # Hello, I'm Fran 👋
 
+I am a passionate sysadmin, devops, developer, architect & coffee maker, always looking for improvement. I believe open-source software is a fantastic way of benefiting from the skills and experience of each individual in order to produce better, faster and stronger code.
+
 ## ☁️ Clouds
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -54,6 +56,7 @@
 <div align="center">
 
 [<img align="center" alt="Website" width="45px" src="https://raw.githubusercontent.com/kahun/kahun/master/assets/svg/web.svg" />](https://www.kahun.es)
+[<img align="center" alt="Website" width="45px" src="https://raw.githubusercontent.com/kahun/kahun/master/assets/svg/gmail.svg" />](mailto:micorreoen@gmail.com)
 [<img align="center" alt="Twitter" width="45px" src="https://raw.githubusercontent.com/kahun/kahun/master/assets/svg/twitter.svg" />](https://twitter.com/FranKahun)
 [<img align="center" alt="LinkedIn" width="45px" src="https://raw.githubusercontent.com/kahun/kahun/master/assets/svg/linkedin.svg" />](https://www.linkedin.com/in/franaugusto/)
 
