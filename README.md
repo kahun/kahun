@@ -46,6 +46,6 @@
 
 ## 👨‍💻 Connect with me
 
-[<img align="left" alt="Website" width="45px" src="https://raw.githubusercontent.com/kahun/kahun/master/assets/img/svg/web.svg" />][https://www.kahun.es]
-[<img align="left" alt="Twitter" width="45px" src="https://raw.githubusercontent.com/kahun/kahun/master/assets/img/svg/twitter.svg" />][https://twitter.com/FranKahun]
-[<img align="left" alt="LinkedIn" width="45px" src="https://raw.githubusercontent.com/kahun/kahun/master/assets/img/svg/linkedin.svg" />][https://www.linkedin.com/in/franaugusto/]
+[<img align="left" alt="Website" width="45px" src="https://raw.githubusercontent.com/kahun/kahun/master/assets/svg/web.svg" />][https://www.kahun.es]
+[<img align="left" alt="Twitter" width="45px" src="https://raw.githubusercontent.com/kahun/kahun/master/assets/svg/twitter.svg" />][https://twitter.com/FranKahun]
+[<img align="left" alt="LinkedIn" width="45px" src="https://raw.githubusercontent.com/kahun/kahun/master/assets/svg/linkedin.svg" />][https://www.linkedin.com/in/franaugusto/]
