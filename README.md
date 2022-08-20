@@ -1,6 +1,12 @@
-# Hello, I'm Fran 👋
+# Hello 👋, I'm Fran 
 
-I am a passionate sysadmin, devops, developer, architect & coffee maker, always looking for improvement. I believe open-source software is a fantastic way of benefiting from the skills and experience of each individual in order to produce better, faster and stronger code.
+I am a passionate sysadmin, secdevops, developer, architect & coffee maker, always looking for improvement.
+## About Me
+
+- 👨‍💻 Currently working on big data platform arquitecture.
+- 📚 Learning everything about kubernetes, security & cloud.
+- 💪🏼 Future Goals: Become a Debian Developer.
+- ⚡ Fun fact: I won a trophy in a "futbolin" ⚽ competition.
 
 ## ☁️ Clouds
 
