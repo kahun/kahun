@@ -42,10 +42,19 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## 🧮 Github Stats
+
+<div align="center">
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kahun&show_icons=true&count_private=true&include_all_commits=true)
+
+</div>
 
 ## 👨‍💻 Connect with me
 
-[<img align="left" alt="Website" width="45px" src="https://raw.githubusercontent.com/kahun/kahun/master/assets/svg/web.svg" />](https://www.kahun.es)
-[<img align="left" alt="Twitter" width="45px" src="https://raw.githubusercontent.com/kahun/kahun/master/assets/svg/twitter.svg" />](https://twitter.com/FranKahun)
-[<img align="left" alt="LinkedIn" width="45px" src="https://raw.githubusercontent.com/kahun/kahun/master/assets/svg/linkedin.svg" />](https://www.linkedin.com/in/franaugusto/)
+<div align="center">
+
+[<img align="center" alt="Website" width="45px" src="https://raw.githubusercontent.com/kahun/kahun/master/assets/svg/web.svg" />](https://www.kahun.es)
+[<img align="center" alt="Twitter" width="45px" src="https://raw.githubusercontent.com/kahun/kahun/master/assets/svg/twitter.svg" />](https://twitter.com/FranKahun)
+[<img align="center" alt="LinkedIn" width="45px" src="https://raw.githubusercontent.com/kahun/kahun/master/assets/svg/linkedin.svg" />](https://www.linkedin.com/in/franaugusto/)
+
+</div>
