@@ -55,9 +55,9 @@ I am a passionate sysadmin, devops, developer, architect & coffee maker, always 
 
 <div align="center">
 
-[<img align="center" alt="Website" width="45px" src="https://raw.githubusercontent.com/kahun/kahun/master/assets/svg/web.svg" />](https://www.kahun.es)
-[<img align="center" alt="Website" width="45px" src="https://raw.githubusercontent.com/kahun/kahun/master/assets/svg/gmail.svg" />](mailto:micorreoen@gmail.com)
-[<img align="center" alt="Twitter" width="45px" src="https://raw.githubusercontent.com/kahun/kahun/master/assets/svg/twitter.svg" />](https://twitter.com/FranKahun)
-[<img align="center" alt="LinkedIn" width="45px" src="https://raw.githubusercontent.com/kahun/kahun/master/assets/svg/linkedin.svg" />](https://www.linkedin.com/in/franaugusto/)
+[<img align="center" alt="Website" width="45px" src="https://raw.githubusercontent.com/kahun/kahun/main/assets/svg/web.svg" />](https://www.kahun.es)
+[<img align="center" alt="Website" width="45px" src="https://raw.githubusercontent.com/kahun/kahun/main/assets/svg/gmail.svg" />](mailto:micorreoen@gmail.com)
+[<img align="center" alt="Twitter" width="45px" src="https://raw.githubusercontent.com/kahun/kahun/main/assets/svg/twitter.svg" />](https://twitter.com/FranKahun)
+[<img align="center" alt="LinkedIn" width="45px" src="https://raw.githubusercontent.com/kahun/kahun/main/assets/svg/linkedin.svg" />](https://www.linkedin.com/in/franaugusto/)
 
 </div>
