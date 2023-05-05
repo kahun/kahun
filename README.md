@@ -1,9 +1,10 @@
-# Hello 👋, I'm Fran 
+# Hello 👋, I'm Fran
 
-I am a passionate sysadmin, secdevops, developer, architect & coffee maker, always looking for improvement.
+I am a passionate open source lover & platform/sre/security engineer, secdevops, syadmin, developer, architect & coffee maker, always looking for more words to add to this description.
+
 ## About Me
 
-- 👨‍💻 Currently working on big data platform product.
+- 👨‍💻 Currently working on a big data platform.
 - 📚 Learning everything about SRE, kubernetes, security & clouds.
 - 💪🏼 Future Goals: Become a Debian Developer.
 - ⚡ Fun fact: I won a trophy in a "futbolin" ⚽ competition.
