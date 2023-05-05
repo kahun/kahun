@@ -43,19 +43,23 @@ I am a passionate sysadmin, secdevops, developer, architect & coffee maker, alwa
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgresSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## 🧮 Github Stats
 
 <div align="center">
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kahun&show_icons=true&count_private=true&include_all_commits=true)
+
 </div>
 
 ## 👨‍💻 Connect with me
 
 <div align="center">
+
 [<img align="center" alt="Website" width="45px" src="https://raw.githubusercontent.com/kahun/kahun/main/assets/svg/web.svg" />](https://kahun.es)
 [<img align="center" alt="Website" width="45px" src="https://raw.githubusercontent.com/kahun/kahun/main/assets/svg/gmail.svg" />](mailto:micorreoen@gmail.com)
 [<img align="center" alt="Twitter" width="45px" src="https://raw.githubusercontent.com/kahun/kahun/main/assets/svg/twitter.svg" />](https://twitter.com/FranKahun)
 [<img align="center" alt="LinkedIn" width="45px" src="https://raw.githubusercontent.com/kahun/kahun/main/assets/svg/linkedin.svg" />](https://www.linkedin.com/in/franaugusto/)
+
 </div>
